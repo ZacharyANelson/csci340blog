@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to my first post"
 date:   2019-09-12 20:16:47 -0500
 categories: jekyll update
+author: Zach
 ---
 Setting up this blog was not too hard, by following the steps.
 Both
