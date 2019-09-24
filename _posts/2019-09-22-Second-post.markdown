@@ -6,8 +6,8 @@ categories: jekyll update
 author: Zach
 ---
 The whole themes in jekll are new to me. I struggled with copying them in when not using longhual.
-![Lets code](download2.jpg)
-![in class.](download3.jpg)
+![Lets code](assests/img/download2.jpg "coding")
+![in class.](assests/img/download3.jpg "classes")
 
 
 My previous [website](https://zacharyanelson.github.io/Csci340/labs/lab2/)
