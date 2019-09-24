@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Post"
-date:   2019-09-23 20:16:47 -0500
+date:   2019-09-23 09:00:47 -0500
 categories: jekyll update
 author: Zach
 ---
