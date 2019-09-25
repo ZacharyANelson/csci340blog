@@ -6,7 +6,7 @@ categories: jekyll update
 author: Zach
 ---
 The whole themes in jekll are new to me. I struggled with copying them in when not using longhual.
-![Lets code](https://snappygoat.com/free-public-domain-images-coding_business_working_macbook/NMdX8sQiIFUbm-y8w-vx14JjhRZubjbMClcpqRtX38k.html"coding")
+![Lets code](https://snappygoat.com/free-public-domain-images-coding_business_working_macbook/NMdX8sQiIFUbm-y8w-vx14JjhRZubjbMClcpqRtX38k.html)
 ![in class.](assests/img/download3.jpg "classes")
 
 
