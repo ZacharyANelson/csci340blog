@@ -14,4 +14,4 @@ Many to one, one-to-one, or any other types of relationships.
 
 Then once I had the Draw.io I made the Vertabelo, which helps you model my tables.
 Learned about primary key and foreign keys.
-![Vertebelo](/csci340blog/assets/img/vert.PNG)
+![Vertebelo](/csci340blog/assets/img/Vert.png)
