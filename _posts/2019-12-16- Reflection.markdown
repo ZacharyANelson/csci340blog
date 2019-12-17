@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflection"
-date:   2019-12-16 9:16:47 -0500
+date:   2019-12-16 13:16:47 -0500
 categories: jekyll update
 author: Zach
 ---
